@@ -23,11 +23,6 @@ The script has a configuration option to choose between TCP and UDP modes. By de
 # SET THIS VALUE TO TRUE IF YOU WANT TO TEST UDP MODE
 udp = False
 ```
-## Script Explanation
-The script performs the following steps:
-
-## Argument Checking
-It checks if the correct number of arguments is provided. If not, it displays the usage instructions and exits.
 
 ## Test Execution
 It runs the iperf3 test 10 times.
