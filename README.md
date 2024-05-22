@@ -12,7 +12,7 @@ This Python script measures the network performance by running multiple tests wi
 To run the script, use the following command:
 
 ```sh
-python3 <script_name.py> <IP_iperf3_server>
+python3 iperf3.py <IP_iperf3_server>
 ```
 Replace <script_name.py> with the name of your script file and <IP_iperf3_server> with the IP address of the iperf3 server you want to test against.
 
